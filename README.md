@@ -11,7 +11,7 @@
 
 ![Demo on Mobile](Mobile.gif)
 
-## Screenshot
+## Screenshots
 
 ![home-1](screenshots/home-1.png)
 ![home-2](screenshots/home-2.png)
